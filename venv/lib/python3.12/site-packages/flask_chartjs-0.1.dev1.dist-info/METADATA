@@ -1,0 +1,43 @@
+Metadata-Version: 2.1
+Name: flask-chartjs
+Version: 0.1.dev1
+Summary: A Flask extension for providing ChartJS functionality in templates
+Home-page: https://github.com/statuser/flask-chartjs
+Author: John Howell
+Author-email: john_howell@byu.edu
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/statuser/flask-chartjs/issues
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Flask
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: JavaScript
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: English
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Flask-ChartJS
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)]
+
+Flask-ChartJS is a Flask extension to include ChartJS plotting in templates
+
+
+## Installation
+
+Use the Python package manager [pip](https://pip.pypa.io/en/stable) to install Flask-ChartJS.
+
+```bash
+pip install --upgrade Flask-ChartJS
+```
+
+## Usage
+
+...
+

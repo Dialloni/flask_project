@@ -1,0 +1,8 @@
+#!/Users/abubakardiallo/Desktop/my_first_flask_app/flask-essential-training-revision-fy25q2--codespaces--3810166/venv/bin/python3.12
+# -*- coding: utf-8 -*-
+import re
+import sys
+from gunicorn.app.wsgiapp import run
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(run())
